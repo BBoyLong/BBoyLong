@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BBoyLong
-- 👀 I’m interested in Python,
+- 👀 Interested in Python,
 - 🌱 &Yes,I`m currently learning it too...
 - 💞️ I’m looking to collaborate on the basic skills with Python
 - 📫 Reach me with in_site_letter
